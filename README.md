@@ -50,13 +50,3 @@ I'm a Computer Science & AI student exploring **tech-hybrid roles** — where I 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=default" height="165"/>
-</p>
-
----
-
-<p align="center"><em>Thanks for stopping by — always happy to connect and chat about data, tech, and strategy!</em></p>
