@@ -109,24 +109,7 @@ reach_me_at: [your email]
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LucaLombard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLombard&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=LucaLombard&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=LucaLombard&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
 
