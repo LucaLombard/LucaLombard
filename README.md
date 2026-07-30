@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions...;Bridging+tech+and+strategy...;Always+building+something+new." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions...;Bridging+tech+and+strategy..." />
 
 </div>
 
@@ -30,9 +30,9 @@ Interested in roles where **data meets decision-making**: analytics, tech consul
 
 ```yaml
 role_target: Data Analyst / Tech Consultant / Strategy
-currently_building: [project name / area]
-currently_learning: [skill you're picking up]
-reach_me_at: [your email]
+currently_building: []
+currently_learning: [Structural problem framing]
+reach_me_at: [https://www.linkedin.com/in/luca-lombard-a67708328/]
 ```
 
 <br clear="right"/>
@@ -48,8 +48,7 @@ reach_me_at: [your email]
 **Languages**
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 
 </td>
@@ -58,9 +57,6 @@ reach_me_at: [your email]
 **Data & Analytics**
 <br/><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </td>
@@ -70,7 +66,6 @@ reach_me_at: [your email]
 <br/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 </td>
 </tr>
