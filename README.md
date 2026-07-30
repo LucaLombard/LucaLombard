@@ -22,12 +22,9 @@ I'm a Computer Science & AI student exploring **tech-hybrid roles** — combinin
 
 Interested in roles where **data meets decision-making**: analytics, tech consulting, and strategy.
 
-```yaml
-role_target: Data Analyst / Tech Consultant / Strategy
-currently_building: []
-currently_learning: [Structural problem framing]
-reach_me_at: [https://www.linkedin.com/in/luca-lombard-a67708328/]
-```
+🎯  Role Target:  Data Analyst · Tech Consultant · Strategy <br/> 🔨  Currently Building:  [] <br/> 🌱  Currently Learning:  [] <br/> 📫  Reach Me At:  []
+
+<br clear="right"/>
 
 <br clear="right"/>
 
