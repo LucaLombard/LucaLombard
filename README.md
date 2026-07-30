@@ -15,10 +15,9 @@
 
 I'm a Computer Science & AI student exploring **tech-hybrid roles** — where I can combine data analysis, engineering, and strategic thinking to solve real business problems. 
 
-- 🔭 Currently working on: *[project name / area]*
-- 🌱 Learning: *[skill you're picking up — e.g. causal inference, cloud data pipelines]*
+- 🌱 Learning: 
 - 💼 Open to: Data Analyst / Consulting / Strategy / New Grad Tech roles
-- 📫 Reach me: [your email] | [LinkedIn]
+- 📫 Reach me: 
 
 ---
 
