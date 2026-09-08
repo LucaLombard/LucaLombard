@@ -1,9 +1,4 @@
-
-<h1 align="center">Hi, I'm Luca Lombard 👋</h1>
-
-<p align="center">
-  <em>CS & AI student |  Passionate about bridging the gap between technical solutions and business impact </em>
-</p>
+![Hello, I'm Luca](./animated-hello-github.svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luca-lombard-a67708328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
