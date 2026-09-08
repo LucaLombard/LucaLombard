@@ -1,5 +1,4 @@
 ![Hello, I'm Luca](./animated-hello-github.svg)
-
 ### 👨🏻‍💻&nbsp; About Me
 
 💻 &nbsp; I'm a Computer Science and Artificial Intelligence student, who enjoys exploring how technology can be applied to real-world problems, particularly where it connects with data, business, and decision-making. \
