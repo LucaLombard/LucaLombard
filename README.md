@@ -1,65 +1,18 @@
-<!-- Replace every ALL-CAPS placeholder before publishing. -->
+![Hello, I'm Luca](./animated-hello-github.svg)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&amp;color=6e7681&amp;style=flat&amp;label=Profile+views" alt="Profile views" />
-  <a href="https://github.com/YOUR-GITHUB-USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&amp;style=flat&amp;color=6e7681" alt="GitHub followers" />
-  </a>
-</p>
+### 👨🏻‍💻 &nbsp;About Me
 
-👋  About me
+💡 &nbsp; I'm a Computer Science and Artificial Intelligence student, who enjoys exploring how technology can be applied to real-world problems, particularly where it connects with data, business, and decision-making. 
 
-💻  I'm Luca, a YOUR ROLE based in YOUR LOCATION.
-🔭  I'm currently working on YOUR CURRENT PROJECT OR GOAL.
-🌱  I'm learning more about TOPIC, TECHNOLOGY, OR FIELD.
-💡  I'm interested in YOUR MAIN INTERESTS.
-🤝  I'm open to COLLABORATION, FREELANCE WORK, OR OPPORTUNITIES.
-⚡  Away from the keyboard, I enjoy YOUR HOBBIES.
+### 🛠 &nbsp;Tech Stack
 
-🛠  Skills
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
-Languages
- ![Python](https://img.shields.io/badge/-Python-161b22?style=flat&logo=Python)Python · SQL · 
+### 📫 &nbsp; How to reach me:
 
-Frameworks and libraries
-Pandas · scikit-learn · 
-
-Tools and platforms
-Git · Jupyter · 
-
-<!--
-Optional skill badge example:
-![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat&logo=javascript)
-Duplicate it and replace the name and logo for each skill you use.
--->
-
-🚀  Projects
-
-PROJECT NAME
-
-ONE CLEAR SENTENCE EXPLAINING WHAT THE PROJECT DOES AND WHY IT MATTERS.
-
-TECHNOLOGY · TECHNOLOGY · TECHNOLOGY
-Repository · Live demo
-
-PROJECT NAME
-
-ONE CLEAR SENTENCE EXPLAINING THE PROBLEM THIS PROJECT SOLVES.
-
-TECHNOLOGY · TECHNOLOGY · TECHNOLOGY
-Repository · Live demo
-
-PROJECT NAME
-
-ONE CLEAR SENTENCE HIGHLIGHTING THE MOST INTERESTING PART OF THIS PROJECT.
-
-TECHNOLOGY · TECHNOLOGY · TECHNOLOGY
-Repository
-
-📫  Connect with me
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-</a>
-
-<!-- Delete unused project fields and placeholder lines before publishing. -->
+<a href="https://www.linkedin.com/in/luca-lombard-a67708328/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
