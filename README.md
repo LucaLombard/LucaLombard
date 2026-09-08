@@ -4,6 +4,8 @@
 
 💻 &nbsp; I'm a Computer Science and Artificial Intelligence student, who enjoys exploring how technology can be applied to real-world problems, particularly where it connects with data, business, and decision-making. \
 💡 &nbsp; I'm currently targetting roles in Technology Consultancy and Data Analytics \
+🌱 &nbsp; I'm currently expanding my database skills by learning PostgreSQL
+
 
 ---
 
@@ -17,7 +19,7 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+![MySQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 
 ### Data & Analytics
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
