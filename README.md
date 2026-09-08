@@ -1,102 +1,65 @@
-<div align="center">
+<!-- Replace every ALL-CAPS placeholder before publishing. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Luca%20Lombard&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20AI%20Student%20%7C%20Data%20%C2%B7%20Strategy%20%C2%B7%20Tech&descAlignY=58&descSize=18" width="100%"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&amp;color=6e7681&amp;style=flat&amp;label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/YOUR-GITHUB-USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&amp;style=flat&amp;color=6e7681" alt="GitHub followers" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/luca-lombard-a67708328/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+👋  About me
+
+💻  I'm Luca, a YOUR ROLE based in YOUR LOCATION.
+🔭  I'm currently working on YOUR CURRENT PROJECT OR GOAL.
+🌱  I'm learning more about TOPIC, TECHNOLOGY, OR FIELD.
+💡  I'm interested in YOUR MAIN INTERESTS.
+🤝  I'm open to COLLABORATION, FREELANCE WORK, OR OPPORTUNITIES.
+⚡  Away from the keyboard, I enjoy YOUR HOBBIES.
+
+🛠  Skills
+
+Languages
+ ![Python](https://img.shields.io/badge/-Python-161b22?style=flat&logo=Python)Python · SQL · 
+
+Frameworks and libraries
+Pandas · scikit-learn · 
+
+Tools and platforms
+Git · Jupyter · 
+
+<!--
+Optional skill badge example:
+![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat&logo=javascript)
+Duplicate it and replace the name and logo for each skill you use.
+-->
+
+🚀  Projects
+
+PROJECT NAME
+
+ONE CLEAR SENTENCE EXPLAINING WHAT THE PROJECT DOES AND WHY IT MATTERS.
+
+TECHNOLOGY · TECHNOLOGY · TECHNOLOGY
+Repository · Live demo
+
+PROJECT NAME
+
+ONE CLEAR SENTENCE EXPLAINING THE PROBLEM THIS PROJECT SOLVES.
+
+TECHNOLOGY · TECHNOLOGY · TECHNOLOGY
+Repository · Live demo
+
+PROJECT NAME
+
+ONE CLEAR SENTENCE HIGHLIGHTING THE MOST INTERESTING PART OF THIS PROJECT.
+
+TECHNOLOGY · TECHNOLOGY · TECHNOLOGY
+Repository
+
+📫  Connect with me
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions...;Bridging+tech+and+strategy..." />
-
-</div>
-
-<br/>
-
-## 👤 About Me
-
-<img align="right" width="260" src="https://raw.githubusercontent.com/github/explore/main/topics/data-science/data-science.png" />
-
-I'm a Computer Science & AI student exploring **tech-hybrid roles** — combining data analysis, engineering, and strategic thinking to solve real business problems.
-
-Interested in roles where **data meets decision-making**: analytics, tech consulting, and strategy.
-
-🎯  Role Target:  Data Analyst · Tech Consultant · Strategy <br/> 🔨  Currently Building:  [] <br/> 🌱  Currently Learning:  [] <br/> 📫  Reach Me At:  []
-
-<br clear="right"/>
-
-<br clear="right"/>
-
----
-
-## 🛠️ Skills & Tools
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-</td>
-<td valign="top" width="33%">
-
-**Data & Analytics**
-<br/><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-</td>
-<td valign="top" width="33%">
-
-**Tools & Platforms**
-<br/><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<br/>
-🚧<br/><b>Coming Soon</b><br/>
-<sub>Data analysis project</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-🚧<br/><b>Coming Soon</b><br/>
-<sub>Dashboard / strategy case study</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-🚧<br/><b>Coming Soon</b><br/>
-<sub>Consulting-style analytics project</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
-
-<p align="center"><em>Thanks for stopping by — always happy to connect and chat about data, tech, and strategy!</em></p>
+<!-- Delete unused project fields and placeholder lines before publishing. -->
