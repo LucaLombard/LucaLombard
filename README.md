@@ -1,40 +1,32 @@
 ![Hello, I'm Luca](./animated-hello-github.svg)
+### 👨🏻‍💻&nbsp; About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luca-lombard-a67708328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
-</p>
+💻 &nbsp; I'm a Computer Science and Artificial Intelligence student, who enjoys exploring how technology can be applied to real-world problems, particularly where it connects with data, business, and decision-making. \
+💡 &nbsp; I'm currently targetting roles in Technology Consultancy and Data Analytics \
+🌱 &nbsp; I'm currently expanding my database skills by learning PostgreSQL
 
----
-
-### 👤 About Me
-
-I'm a Computer Science & AI student exploring **tech-hybrid roles** — where I can combine data analysis, engineering, and strategic thinking to solve real business problems. 
-
-- 🌱 Learning: 
-- 💼 Open to: Data Analyst / Consulting / Strategy / New Grad Tech roles
-- 📫 Reach me: 
 
 ---
 
-### 🛠️ Skills & Tools
+### 📫 &nbsp; How to reach me:
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-</p>
+<a href="https://www.linkedin.com/in/luca-lombard-a67708328/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn%20-%230077B5.svg?&style=flat&logo=linkedIn&logoColor=white"/></a> &nbsp;
 
-**Data & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-</p>
+---
 
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-</p>
+### 🛠 &nbsp;Skills & Tools
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![MySQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+
+### Data & Analytics
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit-learn20-%23150458.svg?&style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
 
 ---
 
@@ -42,5 +34,5 @@ I'm a Computer Science & AI student exploring **tech-hybrid roles** — where I 
 
 
 
----
+
 
