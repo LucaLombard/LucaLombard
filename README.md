@@ -4,6 +4,14 @@
 
 💡 &nbsp; I'm a Computer Science and Artificial Intelligence student, who enjoys exploring how technology can be applied to real-world problems, particularly where it connects with data, business, and decision-making. 
 
+---
+
+### 📫 &nbsp; How to reach me:
+
+<a href="https://www.linkedin.com/in/luca-lombard-a67708328/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn%20-%230077B5.svg?&style=flat&logo=linkedIn&logoColor=white"/></a> &nbsp;
+
+---
+
 ### 🛠 &nbsp;Skills & Tools
 
 ### Languages
@@ -18,7 +26,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
 
+---
 
-### 📫 &nbsp; How to reach me:
+### 📌 Featured Projects
 
-<a href="https://www.linkedin.com/in/luca-lombard-a67708328/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn%20-%230077B5.svg?&style=flat&logo=linkedIn&logoColor=white"/></a> &nbsp;
+
+
+
+
