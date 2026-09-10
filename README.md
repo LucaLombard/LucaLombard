@@ -32,6 +32,9 @@
 
 ### 📌 Featured Projects
 
+### Customer Support Operations Analytics - Ongoing
+An evolving, end-to-end data analytics consulting project that transforms raw customer-support data into operational insights. The current iteration uses Python and Pandas for preprocessing, SQL and SQLite for data storage and analysis, and Power BI for reporting on response times, resolution performance, ticket volume, and team workload. <br>
+**Current Stack:** Python, Pandas, SQL, SQLite, PowerBI, Git/Github
 
 
 
